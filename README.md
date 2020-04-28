@@ -6,4 +6,4 @@ And that's all. You will get the output after this.
 
 ![alt text](Screenshot_2.jpg)
 
-# If you clone this and you want to run this on your machine, you have to import 'random' module which is a package from the python standard library.
+If you clone this and you want to run this on your machine, you have to import 'random' module which is a package from the python standard library.
